@@ -31,6 +31,8 @@
 		</Compiler>
 		<Unit filename="Mesh.cpp" />
 		<Unit filename="Mesh.h" />
+		<Unit filename="drone.cpp" />
+		<Unit filename="drone.h" />
 		<Unit filename="include/camera.h" />
 		<Unit filename="include/display.h" />
 		<Unit filename="include/drawScene.h" />
@@ -40,7 +42,6 @@
 		<Unit filename="shader.cpp" />
 		<Unit filename="shader.h" />
 		<Unit filename="src/display.cpp" />
-		<Unit filename="transform.cpp" />
 		<Unit filename="transform.h" />
 		<Extensions>
 			<code_completion>
