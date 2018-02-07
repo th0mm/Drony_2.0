@@ -40,6 +40,8 @@
 		<Unit filename="shader.cpp" />
 		<Unit filename="shader.h" />
 		<Unit filename="src/display.cpp" />
+		<Unit filename="transform.cpp" />
+		<Unit filename="transform.h" />
 		<Extensions>
 			<code_completion>
 				<search_path add="include" />
